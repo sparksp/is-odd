@@ -1,0 +1,14 @@
+{
+  "name": "is-odd",
+  "version": "1.0.0",
+  "description": "Check if given number is odd",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Phill Sparks",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
